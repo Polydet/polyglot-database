@@ -1,4 +1,6 @@
 file,source,types,misc
+PDF+ELF-1.pdf,,pdf elf64,x86-64 Linux ELF64
+PDF+ELF-2.pdf,,pdf elf64,x86-64 Linux ELF64
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
 GIF+JS-2.gif,,gif js,
