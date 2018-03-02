@@ -1,30 +1,30 @@
 file name,file guess,trid guess
-GIF+JAR.gif,gif,gif
-GIF+JS-1.gif,gif,gif
-GIF+JS-2.gif,gif,gif
-JPG+JAR.jpg,jpg,jpg
-MP4+JAR.mp4,mp4,mp4
-neszip-example.nes,nes,nes
-PDF+ELF-1.pdf,elf,elf
-PDF+ELF-2.pdf,elf,elf
+GIF+JAR.gif,flir gif,gif (100%)
+GIF+JS-1.gif,gif,gif (100%)
+GIF+JS-2.gif,gif,gif (100%)
+JPG+JAR.jpg,flir jpg,jpg (87.4%) mp3 (12.4%)
+MP4+JAR.mp4,flir mp4,mp4 (92.3%) abr (6.6%)
+neszip-example.nes,nes,nes (100%)
+PDF+ELF-1.pdf,flir elf,elf (100%)
+PDF+ELF-2.pdf,flir elf,elf (100%)
 PDFGitPolyglot.pdf,gitbundle,
-PNG+JAR.png,png,png
-pocorgtfo01.pdf,pdf,pdf
-pocorgtfo02.pdf,mbr,mbr
-pocorgtfo03.pdf,jpg,mp3
-pocorgtfo04.pdf,pdf,pdf
-pocorgtfo05.pdf,iso,
-pocorgtfo06.pdf,tar,pdf
-pocorgtfo07.pdf,bpg,bpg
+PNG+JAR.png,flir png,png (100%)
+pocorgtfo01.pdf,pdf,pdf (100%)
+pocorgtfo02.pdf,mbr,mbr (100%)
+pocorgtfo03.pdf,flir jpg,mp3 (100%)
+pocorgtfo04.pdf,flir pdf,pdf (100%)
+pocorgtfo05.pdf,flir iso,
+pocorgtfo06.pdf,tar,pdf (100%)
+pocorgtfo07.pdf,bpg,bpg (100%)
 pocorgtfo08.pdf,,
-pocorgtfo09.pdf,wv,wv
-pocorgtfo10.pdf,,
+pocorgtfo09.pdf,flir wv,wv (99.5%) dbf (0.4%)
+pocorgtfo10.pdf,flir,
 pocorgtfo11.pdf,,
-pocorgtfo12.pdf,,
-pocorgtfo13.pdf,pdf,s
-pocorgtfo14.pdf,nes,nes
-pocorgtfo15.pdf,,ild
-pocorgtfo16.pdf,,kap
-pocorgtfo17.pdf,,
-resume_iso.pdf,mbr,pdf
-stegosploit_tool.png,png,png
+pocorgtfo12.pdf,flir,
+pocorgtfo13.pdf,pdf,s (100%)
+pocorgtfo14.pdf,flir nes,nes (100%)
+pocorgtfo15.pdf,,ild (100%)
+pocorgtfo16.pdf,flir,kap (100%)
+pocorgtfo17.pdf,flir,
+resume_iso.pdf,flir mbr pdf,pdf (99.9%) mbr (0.0%)
+stegosploit_tool.png,flir png,png (100%)
