@@ -1,31 +1,31 @@
-file name,file guess,trid guess
-GIF+JAR.gif,flir gif,gif (100%)
-GIF+JS-1.gif,gif,gif (100%)
-GIF+JS-2.gif,gif,gif (100%)
-JPG+JAR.jpg,flir jpg,jpg (87.4%) mp3 (12.4%)
-MP4+JAR.mp4,flir mp4,mp4 (92.3%) abr (6.6%)
-neszip-example.nes,nes,nes (100%)
-PDF+ELF-1.pdf,flir elf,elf (100%)
-PDF+ELF-2.pdf,flir elf,elf (100%)
-PDFGitPolyglot.pdf,gitbundle,
-PNG+JAR.png,flir png,png (100%)
-pocorgtfo01.pdf,pdf,pdf (100%)
-pocorgtfo02.pdf,mbr,mbr (100%)
-pocorgtfo03.pdf,flir jpg,mp3 (100%)
-pocorgtfo04.pdf,flir pdf,pdf (100%)
-pocorgtfo05.pdf,flir iso,
-pocorgtfo06.pdf,tar,pdf (100%)
-pocorgtfo07.pdf,bpg,bpg (100%)
-pocorgtfo08.pdf,,
-pocorgtfo09.pdf,flir wv,wv (99.5%) dbf (0.4%)
-pocorgtfo10.pdf,flir,
-pocorgtfo11.pdf,,
-pocorgtfo12.pdf,flir,
-pocorgtfo13.pdf,pdf,s (100%)
-pocorgtfo14.pdf,flir nes,nes (100%)
-pocorgtfo15.pdf,,ild (100%)
-pocorgtfo16.pdf,flir,kap (100%)
-pocorgtfo17.pdf,flir,
-resume_iso.pdf,flir mbr pdf,pdf (99.9%) mbr (0.0%)
-security_logo_string.jpg,js png,png,png (100%)
-stegosploit_tool.png,flir png,png (100%)
+file name,file guess,trid guess,polyglot_detector guess
+GIF+JAR.gif,flir gif,gif (100%),zip (B)
+GIF+JS-1.gif,gif,gif (100%),
+GIF+JS-2.gif,gif,gif (100%),
+JPG+JAR.jpg,flir jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B)
+MP4+JAR.mp4,flir mp4,mp4 (92.3%) abr (6.6%),zip (B)
+neszip-example.nes,nes,nes (100%),zip (BE)
+PDF+ELF-1.pdf,flir elf,elf (100%),pdf (BE) zip (BE)
+PDF+ELF-2.pdf,flir elf,elf (100%),pdf (BE) zip (BE)
+PDFGitPolyglot.pdf,gitbundle,,pdf (BE) zip (BE)
+PNG+JAR.png,flir png,png (100%),png (E) zip (B)
+pocorgtfo01.pdf,pdf,pdf (100%),pdf zip (BE)
+pocorgtfo02.pdf,mbr,mbr (100%),pdf (B) zip (BE)
+pocorgtfo03.pdf,flir jpg,mp3 (100%),jpg (E) pdf (BE) zip (BE)
+pocorgtfo04.pdf,flir pdf,pdf (100%),pdf (E) zip (BE)
+pocorgtfo05.pdf,flir iso,,pdf (BE) zip (BE)
+pocorgtfo06.pdf,tar,pdf (100%),pdf zip (BE)
+pocorgtfo07.pdf,bpg,bpg (100%),pdf (BE) zip (BE)
+pocorgtfo08.pdf,,,pdf (B) zip (BE)
+pocorgtfo09.pdf,flir wv,wv (99.5%) dbf (0.4%),pdf (BE) zip (BE)
+pocorgtfo10.pdf,flir,,pdf (B) zip (BE)
+pocorgtfo11.pdf,,,pdf (BE) zip (BE)
+pocorgtfo12.pdf,flir,,pdf (BE) zip (E)
+pocorgtfo13.pdf,pdf,s (100%),pdf (BE) zip (BE)
+pocorgtfo14.pdf,flir nes,nes (100%),pdf (B) zip (BE)
+pocorgtfo15.pdf,,ild (100%),pdf (B) zip (BE)
+pocorgtfo16.pdf,flir,kap (100%),pdf (B) zip (BE)
+pocorgtfo17.pdf,flir,,pdf (BE) zip (BE)
+resume_iso.pdf,flir mbr pdf,pdf (99.9%) mbr (0.0%),pdf (E) zip (BE)
+security_logo_string.jpg,png,png (100%),png
+stegosploit_tool.png,flir png,png (100%),png zip (BE)
