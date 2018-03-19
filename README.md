@@ -7,6 +7,7 @@ This table is an overview of the contained formats for each file:
 
 |                        |afsk|agc|apk|bmp|bpg|docx|elf|gif|gitbundle|har|html|ild|iso|jar|jpg|js|lsmv|mbr|mp4|nes|odf|odt|pdf|png|ps|rb|sh|tar|tc|wv|zip|
 |------------------------|----|---|---|---|---|----|---|---|---------|---|----|---|---|---|---|--|----|---|---|---|---|---|---|---|--|--|--|---|--|--|---|
+|BMP+HTML+JAR.bmp        |    |   |   |x  |   |    |   |   |         |   |x   |   |   |x  |   |  |    |   |   |   |   |   |   |   |  |  |  |   |  |  |x  |
 |BMP+JAR.bmp             |    |   |   |x  |   |    |   |   |         |   |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |  |  |  |   |  |  |x  |
 |DOCX+ELF+JAR+PDF.zip    |    |   |   |   |   |x   |x  |   |         |   |    |   |   |x  |   |  |    |   |   |   |   |   |x  |   |  |  |  |   |  |  |x  |
 |DOCX+JAR+PDF.pdf        |    |   |   |   |   |x   |   |   |         |   |    |   |   |x  |   |  |    |   |   |   |   |   |x  |   |  |  |  |   |  |  |x  |
