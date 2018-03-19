@@ -6,6 +6,7 @@ ELF+JAR+ODT+PDF.zip,,elf har odt pdf zip,"Only work with Microsoft Word, asks to
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
 GIF+JS-2.gif,,gif js,
+HTML+PDF.html,,html pdf,
 JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome, works with firefox"
 JPG+JAR.jpg,,jpg jar zip,
 MP4+JAR.mp4,,mp4 jar zip,

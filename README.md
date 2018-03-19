@@ -14,6 +14,7 @@ This table is an overview of the contained formats for each file:
 |GIF+JAR.gif             |    |   |   |   |    |   |x  |         |   |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |  |  |  |   |  |  |x  |
 |GIF+JS-1.gif            |    |   |   |   |    |   |x  |         |   |    |   |   |   |   |x |    |   |   |   |   |   |   |   |  |  |  |   |  |  |   |
 |GIF+JS-2.gif            |    |   |   |   |    |   |x  |         |   |    |   |   |   |   |x |    |   |   |   |   |   |   |   |  |  |  |   |  |  |   |
+|HTML+PDF.html           |    |   |   |   |    |   |   |         |   |x   |   |   |   |   |  |    |   |   |   |   |   |x  |   |  |  |  |   |  |  |   |
 |JAR+ODT+PDF.pdf         |    |   |   |   |    |   |   |         |   |    |   |   |x  |   |  |    |   |   |   |x  |   |x  |   |  |  |  |   |  |  |x  |
 |JPG+JAR.jpg             |    |   |   |   |    |   |   |         |   |    |   |   |x  |x  |  |    |   |   |   |   |   |   |   |  |  |  |   |  |  |x  |
 |MP4+JAR.mp4             |    |   |   |   |    |   |   |         |   |    |   |   |x  |   |  |    |   |x  |   |   |   |   |   |  |  |  |   |  |  |x  |
