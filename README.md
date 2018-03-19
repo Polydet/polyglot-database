@@ -49,7 +49,7 @@ This table is an overview of the contained formats for each file:
 This repository contains a [files](files) directory, which contains the polyglot files.
 The CSV file [list.csv](list.csv) contains the metadatas of each file: its types, the source of the file if found elsewere, and a misc section for details, for example the known softwares which accept to read the file.
 
-Notice that JAR files are also ZIP files.
+Notice that DOCX,JAR and ODT files are also ZIP files.
 
 ## Acknowledgments
 
