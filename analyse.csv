@@ -1,4 +1,5 @@
 file name,file guess,trid guess,polyglot_detector guess
+DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),zip
 GIF+JAR.gif,flir gif,gif (100%),zip (B)
 GIF+JS-1.gif,gif,gif (100%),
 GIF+JS-2.gif,gif,gif (100%),
