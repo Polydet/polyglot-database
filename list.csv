@@ -1,5 +1,7 @@
 file,source,types,misc
+DOCX+ELF+JAR+PDF.zip,,docx elf jar pdf zip,Only work with Microsoft Word
 DOCX+JAR.docx,,docx jar zip,
+ELF+JAR+ODT+PDF.zip,,elf har odt pdf zip,Only work with Microsoft Word
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
 GIF+JS-2.gif,,gif js,
