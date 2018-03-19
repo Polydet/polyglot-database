@@ -6,6 +6,7 @@ GIF+JS-2.gif,,gif js,
 JPG+JAR.jpg,,jpg jar zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
+ODT+JAR.odt,,jar odt zip,The reader may ask to repair the file
 PDF+ELF-1.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-2.pdf,,pdf elf,x86-64 Linux ELF64
 PDFGitPolyglot.pdf,pocorgtfo15.pdf,pdf gitbundle,
