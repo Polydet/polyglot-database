@@ -13,7 +13,7 @@ GIF+PDF.gif,,gif pdf,
 HTML+PDF.html,,html pdf,
 JAR+JPG+PDF.jpg,,jar jpg pdf zip,
 JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome, works with firefox"
-JAR+TIFF.tiff,jar tiff zip,
+JAR+TIFF.tiff,,jar tiff zip,
 JPG+JAR.jpg,,jpg jar zip,
 JPG+PDF.jpg,,jpg pdf,
 MP4+JAR.mp4,,mp4 jar zip,
