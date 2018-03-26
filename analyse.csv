@@ -1,29 +1,29 @@
 file name,file guess,trid guess,polyglot_detector guess
-BMP+HTML+JAR.bmp,bmp,bmp (100%),zip (B)
-BMP+JAR.bmp,bmp,bmp (100%),zip (B)
-DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B)
-DOCX+JAR+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B)
-DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),zip
-ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B)
-GIF+JAR+PDF.gif,gif,gif (100%),pdf (BE) zip (B)
-GIF+JAR.gif,gif,gif (100%),zip (B)
+BMP+HTML+JAR.bmp,bmp,bmp (100%),zip (B) jar
+BMP+JAR.bmp,bmp,bmp (100%),zip (B) jar
+DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B) docx jar
+DOCX+JAR+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) docx jar
+DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),zip docx jar
+ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
+GIF+JAR+PDF.gif,gif,gif (100%),pdf (BE) zip (B) jar
+GIF+JAR.gif,gif,gif (100%),zip (B) jar
 GIF+JS-1.gif,gif,gif (100%),
 GIF+JS-2.gif,gif,gif (100%),
 GIF+PDF.gif,gif,gif (100%),pdf (B)
 HTML+PDF-1.html,pdf,pdf (100%),pdf
 HTML+PDF-2.html,pdf,pdf (100%),pdf
-JAR+JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (BE) zip (E)
-JAR+ODT+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B)
-JAR+TIFF.tiff,tiff,tiff (100%),zip (B)
-JPG+JAR.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B)
+JAR+JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (BE) zip (B) jar
+JAR+ODT+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) jar
+JAR+TIFF.tiff,tiff,tiff (100%),zip (B) jar
+JPG+JAR.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B) jar
 JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (B)
-MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B)
+MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B) jar
 neszip-example.nes,nes,nes (100%),zip (BE)
-ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip
+ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip jar
 PDF+ELF-1.pdf,elf,elf (100%),pdf (BE)
 PDF+ELF-2.pdf,elf,elf (100%),pdf (BE)
 PDFGitPolyglot.pdf,gitbundle,,pdf (BE)
-PNG+JAR.png,png,png (100%),png (E) zip (B)
+PNG+JAR.png,png,png (100%),png (E) zip (B) jar
 pocorgtfo01.pdf,pdf,pdf (100%),pdf zip (BE)
 pocorgtfo02.pdf,mbr,mbr (100%),pdf (B) zip (BE)
 pocorgtfo03.pdf,jpg,mp3 (100%),jpg (E) pdf (BE) zip (BE)
@@ -34,7 +34,7 @@ pocorgtfo07.pdf,bpg,bpg (100%),pdf (BE) zip (BE)
 pocorgtfo08.pdf,,,pdf (B) zip (BE)
 pocorgtfo09.pdf,wv,wv (99.5%) dbf (0.4%),pdf (BE) zip (BE)
 pocorgtfo10.pdf,,,pdf (B) zip (BE)
-pocorgtfo11.pdf,,,pdf (BE) zip (BE)
+pocorgtfo11.pdf,,,pdf (BE) zip (BE) jar
 pocorgtfo12.pdf,,,pdf (BE) zip (E)
 pocorgtfo13.pdf,pdf,s (100%),pdf (BE) zip (BE)
 pocorgtfo14.pdf,nes,nes (100%),pdf (B) zip (BE)
