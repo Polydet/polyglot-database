@@ -6,6 +6,7 @@ DOCX+JAR+PDF.pdf,,docx jar pdf zip,
 DOCX+JAR.docx,,docx jar zip,
 ELF+JAR+ODT+PDF.zip,,elf jar odt pdf zip,"Only work with Microsoft Word, asks to repair the file"
 ELF+RAR.rar,,elf rar,
+ELF+JAR+RAR.rar,,elf jar rar,
 GIF+JAR+PDF.gif,,gif jar pdf zip,
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
