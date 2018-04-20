@@ -6,6 +6,7 @@ DOCX+JAR+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) docx jar
 DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),zip docx jar
 ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
 ELF+RAR.rar,elf,elf,
+ELF+RAR5.rar,elf,elf,
 ELF+JAR+RAR.rar,elf,elf,
 GIF+JAR+PDF.gif,gif,gif (100%),gif (E) pdf (BE) zip (B) jar
 GIF+JAR.gif,gif,gif (100%),gif (E) zip (B) jar
