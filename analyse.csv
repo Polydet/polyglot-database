@@ -1,6 +1,8 @@
 file name,file guess,trid guess,polyglot_detector guess
 BMP+HTML+JAR.bmp,bmp,bmp (100%),html (BE) zip (B) jar
 BMP+JAR.bmp,bmp,bmp (100%),zip (B) jar
+DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,pdf (BE) zip(BE) docx jar
+DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,pdf (BE) zip(B) docx jar
 DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B) docx jar
 DOCX+JAR+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) docx jar
 DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),zip docx jar

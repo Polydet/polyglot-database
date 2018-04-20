@@ -1,6 +1,8 @@
 file,source,types,misc
 BMP+HTML+JAR.bmp,,bmp html jar zip,
 BMP+JAR.bmp,,bmp jar zip,
+DOCX+ELF+JAR+PDF+RAR-1.zip,,docx elf jar pdf rar zip,"RAR after ZIP. Only work with Microsoft Word, asks to repair the file"
+DOCX+ELF+JAR+PDF+RAR-2.zip,,docx elf jar pdf rar zip,"ZIP after RAR. Only work with Microsoft Word, asks to repair the file"
 DOCX+ELF+JAR+PDF.zip,,docx elf jar pdf zip,"Only work with Microsoft Word, asks to repair the file"
 DOCX+JAR+PDF.pdf,,docx jar pdf zip,
 DOCX+JAR.docx,,docx jar zip,
