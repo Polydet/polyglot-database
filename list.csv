@@ -46,10 +46,12 @@ pocorgtfo14.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip nes,
 pocorgtfo15.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip ild,
 pocorgtfo16.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip sh,
 pocorgtfo17.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip agc,
+RAR+ZIP-1.rar,,rar zip,
 RAR+ZIP-2.rar,,rar zip,
-RAR+ZIP.rar,,rar zip,
+RAR+ZIP-3.rar,,rar zip,"No ENDARC for the RAR, may crash in some software. For instance, works with Linux unrar"
 RAR5+ZIP-1.rar5,,rar zip,
 RAR5+ZIP-2.rar5,,rar zip,
+RAR5+ZIP-3.rar5,,rar zip,"No ENDARC for the RAR, may crash in some software. For instance, works with Linux unrar"
 resume_iso.pdf,https://r.dakko.us/,pdf mbr,
 security_logo_string.jpg,http://thomasjaehnel.com/blog/2009/11/attacks-based-on-content-sniffing.html,js png,
 stegosploit_tool.png,http://stegosploit.info/,png html,
