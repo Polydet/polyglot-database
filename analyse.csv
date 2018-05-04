@@ -2,38 +2,38 @@ file name,file guess,trid guess,polyglot_detector guess
 7ZIP+JAR.7z,7z,7z,jar zip
 BMP+HTML+JAR.bmp,bmp,bmp (100%),bmp (E) html (BE) jar zip (B)
 BMP+JAR.bmp,bmp,bmp (100%),bmp (E) jar zip (B)
-DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx jar mp3 (BM) pdf (BE) rar (B) zip (BE)
-DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx jar mp3 (BM) pdf (BE) rar (BE) zip(B)
-DOCX+ELF+JAR+PDF.zip,elf,elf (100%),mp3 (BM) pdf (BE) zip (B) docx jar
+DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx jar pdf (BE) rar (B) zip (BE)
+DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx jar pdf (BE) rar (BE) zip(B)
+DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B) docx jar
 DOCX+JAR+PDF.pdf,pdf,pdf (100%),docx jar pdf (E) zip (B)
 DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),docx jar zip
-ELF+JAR+ODT+PDF.zip,elf,elf (100%),mp3 (BM) pdf (BE) zip (B) jar
+ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
 ELF+JAR+RAR.rar,elf,elf,jar rar (BE) zip (B)
 ELF+RAR5.rar,elf,elf,rar(B)
 ELF+RAR.rar,elf,elf,rar(B)
 GIF+JAR+PDF.gif,gif,gif (100%),gif (E) pdf (BE) zip (B) jar
-GIF+JAR.gif,gif,gif (100%),gif (E) mp3 (BM) zip (B) jar
+GIF+JAR.gif,gif,gif (100%),gif (E) zip (B) jar
 GIF+JS-1.gif,gif,gif (100%),gif (E)
 GIF+JS-2.gif,gif,gif (100%),gif (E)
 GIF+PDF.gif,gif,gif (100%),gif (E) pdf (B)
 HTML+PDF-1.html,pdf,pdf (100%),html (BE) pdf
 HTML+PDF-2.html,pdf,pdf (100%),html (BE) pdf
 JAR+JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (BE) zip (B) jar
-JAR+ODT+PDF.pdf,pdf,pdf (100%),mp3 (BE) pdf (E) zip (B) jar
-JAR+TIFF.tiff,tiff,tiff (100%),jar mp3 (BE) tiff zip (B)
+JAR+ODT+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) jar
+JAR+TIFF.tiff,tiff,tiff (100%),jar tiff zip (B)
 JPG+JAR.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B) jar
 JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (B)
 MP3+PDF.pdf,pdf,pdf,mp3 (B) pdf (E)
 MP3+PNG.mp3,png,png,mp3 (BM) png (E)
 MP3+ZIP.zip,mp3,mp3,mp3 (E) zip (B)
-MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),mp3 (BM) zip (B) jar
+MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B) jar
 neszip-example.nes,nes,nes (100%),zip (BE)
-ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),mp3 (BE) zip jar
-PDF+ELF-1.pdf,elf,elf (100%),mp3 (BM) pdf (BE)
-PDF+ELF-2.pdf,elf,elf (100%),mp3 (BM) pdf (BE)
-PDFGitPolyglot.pdf,gitbundle,,mp3 (BM) pdf (BE)
-PNG+JAR.png,png,png (100%),mp3 (BE) png (E) zip (B) jar
-pocorgtfo01.pdf,pdf,pdf (100%),mp3 (BM) pdf zip (BE)
+ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip jar
+PDF+ELF-1.pdf,elf,elf (100%),pdf (BE)
+PDF+ELF-2.pdf,elf,elf (100%),pdf (BE)
+PDFGitPolyglot.pdf,gitbundle,,pdf (BE)
+PNG+JAR.png,png,png (100%),png (E) zip (B) jar
+pocorgtfo01.pdf,pdf,pdf (100%),pdf zip (BE)
 pocorgtfo02.pdf,mbr,mbr (100%),mp3 (BM) pdf (B) zip (BE)
 pocorgtfo03.pdf,jpg,mp3 (100%),jpg (E) mp3 (BM) pdf (BE) zip (BE)
 pocorgtfo04.pdf,pdf,pdf (100%),mp3 (BM) pdf (E) zip (BE)
@@ -58,4 +58,4 @@ RAR5+ZIP-2.rar5,zip,zip,rar (B) zip (E)
 RAR5+ZIP-3.rar5,zip,zip,rar (IE) zip (B)
 resume_iso.pdf,mbr pdf,pdf (99.9%) mbr (0.0%),mp3 (BM) pdf (E)
 security_logo_string.jpg,png,png (100%),html (BE) png
-stegosploit_tool.png,png,png (100%),html (BE) mp3 (BM) png
+stegosploit_tool.png,png,png (100%),html (BE) png
