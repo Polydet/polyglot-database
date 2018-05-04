@@ -23,6 +23,9 @@ JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome
 JAR+TIFF.tiff,,jar tiff zip,
 JPG+JAR.jpg,,jpg jar zip,
 JPG+PDF.jpg,,jpg pdf,
+MP3+PDF.pdf,,mp3 pdf,
+MP3+PNG.mp3,,mp3 png,
+MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
 ODT+JAR.odt,,jar odt zip,The reader may ask to repair the file
