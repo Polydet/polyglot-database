@@ -53,12 +53,15 @@ This table is an overview of the contained formats for each file:
 |security_logo_string.jpg|    |   |   |   |   |    |   |   |         |   |    |   |   |   |   |x |    |   |   |   |   |   |   |x  |  |  |  |   |  |    |  |   |
 |stegosploit_tool.png    |    |   |   |   |   |    |   |   |         |   |x   |   |   |   |   |  |    |   |   |   |   |   |   |x  |  |  |  |   |  |    |  |   |
 
+Notice that DOCX,JAR and ODT files are also ZIP files.
+
 ## This repository
 
 This repository contains a [files](files) directory, which contains the polyglot files.
+
 The CSV file [list.csv](list.csv) contains the metadatas of each file: its types, the source of the file if found elsewere, and a misc section for details, for example the known softwares which accept to read the file.
 
-Notice that DOCX,JAR and ODT files are also ZIP files.
+The CSV file [analyse.csv](analyse.csv) contains the result of the analysis of each polyglot *file* with file 5.32, TrID and our own polyglot detector. For *file*, the command is used with the flag `--keep-going`, to get all the types found.
 
 ## Acknowledgments
 
