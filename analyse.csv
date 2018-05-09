@@ -3,14 +3,14 @@ file name,file guess,trid guess,polyglot_detector guess
 BMP+HTML+JAR.bmp,bmp,bmp (100%),bmp (E) html (BE) jar zip (B)
 BMP+JAR.bmp,bmp,bmp (100%),bmp (E) jar zip (B)
 DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx jar pdf (BE) rar (B) zip (BE)
-DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx jar pdf (BE) rar (BE) zip(B)
+DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx jar pdf (BE) rar (BE) zip (B)
 DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B) docx jar
 DOCX+JAR+PDF.pdf,pdf,pdf (100%),docx jar pdf (E) zip (B)
 DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),docx jar zip
 ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
 ELF+JAR+RAR.rar,elf,elf,jar rar (BE) zip (B)
-ELF+RAR5.rar,elf,elf,rar(B)
-ELF+RAR.rar,elf,elf,rar(B)
+ELF+RAR5.rar,elf,elf,rar (B)
+ELF+RAR.rar,elf,elf,rar (B)
 GIF+JAR+PDF.gif,gif,gif (100%),gif (E) pdf (BE) zip (B) jar
 GIF+JAR.gif,gif,gif (100%),gif (E) zip (B) jar
 GIF+JS-1.gif,gif,gif (100%),gif (E)
