@@ -26,10 +26,13 @@ JPG+JAR.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B) jar
 JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (B)
 MP3+PDF.pdf,pdf,pdf,mp3 (B) pdf (E)
 MP3+PNG.mp3,png,png,mp3 (BM) png (E)
+MP3+OGG+PNG.mp3,png,png,mp3 (BME) ogg (B) png (E)
 MP3+ZIP.zip,mp3,mp3,mp3 (E) zip (B)
 MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B) jar
 neszip-example.nes,nes,nes (100%),zip (BE)
 ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip jar
+OGG+PDF.ogg,pdf,pdf,ogg (B) pdf (E)
+OGG+ZIP.ogg,ogg,ogg,ogg (E) zip (B)
 PDF+ELF-1.pdf,elf,elf (100%),pdf (BE)
 PDF+ELF-2.pdf,elf,elf (100%),pdf (BE)
 PDF+TAR.pdf,pdf tar,pdf tar,pdf tar (ME)

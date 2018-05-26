@@ -26,10 +26,13 @@ JPG+JAR.jpg,,jpg jar zip,
 JPG+PDF.jpg,,jpg pdf,
 MP3+PDF.pdf,,mp3 pdf,
 MP3+PNG.mp3,,mp3 png,
+MP3+OGG+PNG.mp3,,mp3 ogg png,
 MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
 ODT+JAR.odt,,jar odt zip,The reader may ask to repair the file
+OGG+PDF.ogg,,ogg pdf,
+OGG+ZIP.ogg,,ogg zip,
 PDF+ELF-1.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-2.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+TAR.pdf,,pdf tar
