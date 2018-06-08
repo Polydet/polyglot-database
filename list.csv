@@ -24,9 +24,10 @@ JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome
 JAR+TIFF.tiff,,jar tiff zip,
 JPG+JAR.jpg,,jpg jar zip,
 JPG+PDF.jpg,,jpg pdf,
+MP3+OGG+PNG.mp3,,mp3 ogg png,
+MP3+OGG+PNG+WAV.mp3,,mp3 off png wav,
 MP3+PDF.pdf,,mp3 pdf,
 MP3+PNG.mp3,,mp3 png,
-MP3+OGG+PNG.mp3,,mp3 ogg png,
 MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
@@ -35,7 +36,8 @@ OGG+PDF.ogg,,ogg pdf,
 OGG+ZIP.ogg,,ogg zip,
 PDF+ELF-1.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-2.pdf,,pdf elf,x86-64 Linux ELF64
-PDF+TAR.pdf,,pdf tar
+PDF+TAR.pdf,,pdf tar,
+PDF+WAV.pdf,,pdf wav,
 PDFGitPolyglot.pdf,pocorgtfo15.pdf,pdf gitbundle,
 PNG+JAR.png,,png jar zip,
 pocorgtfo01.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip,
@@ -64,3 +66,4 @@ RAR5+ZIP-3.rar5,,rar zip,"No ENDARC for the RAR, may crash in some software. For
 resume_iso.pdf,https://r.dakko.us/,pdf mbr,
 security_logo_string.jpg,http://thomasjaehnel.com/blog/2009/11/attacks-based-on-content-sniffing.html,js png,
 stegosploit_tool.png,http://stegosploit.info/,png html,
+WAV+ZIP.zip,,wav zip,

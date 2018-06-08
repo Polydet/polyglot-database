@@ -24,9 +24,10 @@ JAR+ODT+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) jar
 JAR+TIFF.tiff,tiff,tiff (100%),jar tiff zip (B)
 JPG+JAR.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) zip (B) jar
 JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (B)
+MP3+OGG+PNG.mp3,png,png,mp3 (BME) ogg (B) png (E)
+MP3+OGG+PNG+WAV.mp3,png,png,mp3 (BME) ogg (BE) png (E) wav (B)
 MP3+PDF.pdf,pdf,pdf,mp3 (B) pdf (E)
 MP3+PNG.mp3,png,png,mp3 (BM) png (E)
-MP3+OGG+PNG.mp3,png,png,mp3 (BME) ogg (B) png (E)
 MP3+ZIP.zip,mp3,mp3,mp3 (E) zip (B)
 MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B) jar
 neszip-example.nes,nes,nes (100%),zip (BE)
@@ -36,6 +37,7 @@ OGG+ZIP.ogg,ogg,ogg,ogg (E) zip (B)
 PDF+ELF-1.pdf,elf,elf (100%),pdf (BE)
 PDF+ELF-2.pdf,elf,elf (100%),pdf (BE)
 PDF+TAR.pdf,pdf tar,pdf tar,pdf tar (ME)
+PDF+WAV.pdf,pdf,pdf,pdf (E) wav (B)
 PDFGitPolyglot.pdf,gitbundle,,pdf (BE)
 PNG+JAR.png,png,png (100%),png (E) zip (B) jar
 pocorgtfo01.pdf,pdf,pdf (100%),pdf zip (BE)
@@ -64,3 +66,4 @@ RAR5+ZIP-3.rar5,zip,zip,rar (IE) zip (B)
 resume_iso.pdf,mbr pdf,pdf (99.9%) mbr (0.0%),mp3 (BME) pdf (E)
 security_logo_string.jpg,png,png (100%),html (BE) png
 stegosploit_tool.png,png,png (100%),html (BE) png
+WAV+ZIP.zip,wav,wav,wav (E) zip (B)
