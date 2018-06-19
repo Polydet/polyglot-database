@@ -17,10 +17,13 @@ GIF+JS-1.gif,,gif js,
 GIF+JS-2.gif,,gif js,
 GIF+PDF.gif,,gif pdf,
 GIF+TAR.gif,,gif tar,
+HTML+MP3-1.mp3,,html mp3,
 HTML+PDF-1.html,,html pdf,
 HTML+PDF-2.html,,html pdf,"Only a <script> tag"
+HTML+TIFF.tiff,,html tiff,
 JAR+JPG+PDF.jpg,,jar jpg pdf zip,
 JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome, works with firefox"
+JAR+TAR+TIFF.tiff,,jar tar tiff zip,
 JAR+TIFF.tiff,,jar tiff zip,
 JPG+JAR.jpg,,jpg jar zip,
 JPG+PDF.jpg,,jpg pdf,
@@ -28,6 +31,7 @@ MP3+OGG+PNG.mp3,,mp3 ogg png,
 MP3+OGG+PNG+WAV.mp3,,mp3 off png wav,
 MP3+PDF.pdf,,mp3 pdf,
 MP3+PNG.mp3,,mp3 png,
+MP3+TIFF.tiff,,mp3 tiff,
 MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
@@ -66,8 +70,11 @@ RAR5+ZIP-3.rar5,,rar zip,"No ENDARC for the RAR, may crash in some software. For
 resume_iso.pdf,https://r.dakko.us/,pdf mbr,
 security_logo_string.jpg,http://thomasjaehnel.com/blog/2009/11/attacks-based-on-content-sniffing.html,js png,
 stegosploit_tool.png,http://stegosploit.info/,png html,
+TAR+TIFF.tiff,,tiff tar,
 TIFF+JAR+RAR-1.tiff,,tiff jar rar zip,Payload in a valid TIFF tag
 TIFF+JAR-1.tiff,,tiff jar zip,Payload in a valid TIFF tag
+TIFF+PDF-1.tiff,,tiff pdf,
+TIFF+PDF-2.tiff,,tiff pdf,Do not work with Google chrome.
 TIFF+RAR+ZIP.tiff,,tiff rar zip,Payload in a valid TIFF tag
 TIFF+RAR-1.tiff,,tiff rar,Payload in a valid TIFF tag
 TIFF+ZIP-1.tiff,,tiff zip,Payload in a valid TIFF tag
