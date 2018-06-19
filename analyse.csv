@@ -66,4 +66,9 @@ RAR5+ZIP-3.rar5,zip,zip,rar (IE) zip (B)
 resume_iso.pdf,mbr pdf,pdf (99.9%) mbr (0.0%),mp3 (BME) pdf (E)
 security_logo_string.jpg,png,png (100%),html (BE) png
 stegosploit_tool.png,png,png (100%),html (BE) png
+TIFF+JAR+RAR-1.tiff,tiff,tiff,tiff jar rar (BE) zip (BE)
+TIFF+JAR-1.tiff,tiff,tiff,tiff jar zip (BE)
+TIFF+RAR+ZIP.tiff,tiff,tiff,tiff rar (BE) zip (BE)
+TIFF+RAR-1.tiff,tiff,tiff,tiff rar (BE)
+TIFF+ZIP-1.tiff,tiff,tiff,tiff zip (BE)
 WAV+ZIP.zip,wav,wav,wav (E) zip (B)
