@@ -8,6 +8,9 @@ This table is an overview of the contained formats for each file:
 |                          |7z|afsk|agc|apk|bmp|bpg|docx|elf|gif|gitbundle|html|ild|iso|jar|jpg|js|lsmv|mbr|mp3|mp4|nes|odf|odt|off|ogg|pdf|png|ps|rar|rb|sh|tar|tc|tiff|wav|wv|zip|
 |--------------------------|--|----|---|---|---|---|----|---|---|---------|----|---|---|---|---|--|----|---|---|---|---|---|---|---|---|---|---|--|---|--|--|---|--|----|---|--|---|
 |7ZIP+JAR.7z               |x |    |   |   |   |   |    |   |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |  |    |   |  |x  |
+|7ZIP+RAR-1.7z             |x |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |  |    |   |  |   |
+|7ZIP+RAR-2.7z             |x |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |  |    |   |  |   |
+|7ZIP+ZIP.7z               |x |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |  |    |   |  |x  |
 |BMP+HTML+JAR.bmp          |  |    |   |   |x  |   |    |   |   |         |x   |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |  |    |   |  |x  |
 |BMP+JAR.bmp               |  |    |   |   |x  |   |    |   |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |  |    |   |  |x  |
 |DOCX+ELF+JAR+PDF+RAR-1.zip|  |    |   |   |   |   |x   |x  |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |x  |   |  |x  |  |  |   |  |    |   |  |x  |

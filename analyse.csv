@@ -1,5 +1,8 @@
 file name,file guess,trid guess,polyglot_detector guess
 7ZIP+JAR.7z,7z,7z,jar zip
+7ZIP+RAR-1.7z,7z,7z,7z rar
+7ZIP+RAR-2.7z,7z,7z,7z rar
+7ZIP+ZIP.7z,7z,7z,7z,7z zip
 BMP+HTML+JAR.bmp,bmp,bmp (100%),bmp (E) html (BE) jar zip (B)
 BMP+JAR.bmp,bmp,bmp (100%),bmp (E) jar zip (B)
 DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx jar pdf (BE) rar (B) zip (BE)

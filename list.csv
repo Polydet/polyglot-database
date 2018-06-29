@@ -1,5 +1,8 @@
 file,source,types,misc
 7ZIP+JAR.7z,,7z jar zip,
+7ZIP+RAR-1.7z,,7z rar,
+7ZIP+RAR-2.7z,,7z rar,The rar is embed in the 7Z without compression
+7ZIP+ZIP.7z,,7z zip,
 BMP+HTML+JAR.bmp,,bmp html jar zip,
 BMP+JAR.bmp,,bmp jar zip,
 DOCX+ELF+JAR+PDF+RAR-1.zip,,docx elf jar pdf rar zip,"RAR after ZIP. Only work with Microsoft Word, asks to repair the file"
