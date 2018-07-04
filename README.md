@@ -3,8 +3,6 @@
 This repository is a data set of polyglot files.
 It's purpose is to be used to test a polyglot file detector.
 
-This table is an overview of the contained formats for each file:
-
 |                          |7z|afsk|agc|apk|bmp|bpg|docx|elf|gif|gitbundle|html|ild|iso|jar|jpg|js|lsmv|mbr|mp3|mp4|nes|odf|odt|off|ogg|pdf|png|ps|rar|rb|sh|swf|tar|tc|tiff|wav|wv|zip|
 |--------------------------|--|----|---|---|---|---|----|---|---|---------|----|---|---|---|---|--|----|---|---|---|---|---|---|---|---|---|---|--|---|--|--|---|---|--|----|---|--|---|
 |7ZIP+JAR.7z               |x |    |   |   |   |   |    |   |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |   |  |    |   |  |x  |
@@ -82,6 +80,7 @@ This table is an overview of the contained formats for each file:
 |security_logo_string.jpg  |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |x |    |   |   |   |   |   |   |   |   |   |x  |  |   |  |  |   |   |  |    |   |  |   |
 |stegosploit_tool.png      |  |    |   |   |   |   |    |   |   |         |x   |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |x  |  |   |  |  |   |   |  |    |   |  |   |
 |SWF+ZIP-1.swf             |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |x  |   |  |    |   |  |x  |
+|SWF+ZIP-1.swf             |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |x  |   |  |    |   |  |x  |
 |TAR+TIFF.tiff             |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |x  |  |x   |   |  |   |
 |TIFF+JAR+RAR-1.tiff       |  |    |   |   |   |   |    |   |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |   |  |x   |   |  |x  |
 |TIFF+JAR-1.tiff           |  |    |   |   |   |   |    |   |   |         |    |   |   |x  |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |   |  |x   |   |  |x  |
@@ -91,6 +90,8 @@ This table is an overview of the contained formats for each file:
 |TIFF+RAR-1.tiff           |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |   |  |x   |   |  |   |
 |TIFF+ZIP-1.tiff           |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |   |  |x   |   |  |x  |
 |WAV+ZIP.zip               |  |    |   |   |   |   |    |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |   |   |  |    |x  |  |x  |
+
+This table is an overview of the contained formats for each file:
 
 Notice that DOCX,JAR and ODT files are also ZIP files.
 
