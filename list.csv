@@ -73,6 +73,7 @@ RAR5+ZIP-3.rar5,,rar zip,"No ENDARC for the RAR, may crash in some software. For
 resume_iso.pdf,https://r.dakko.us/,pdf mbr,
 security_logo_string.jpg,http://thomasjaehnel.com/blog/2009/11/attacks-based-on-content-sniffing.html,js png,
 stegosploit_tool.png,http://stegosploit.info/,png html,
+SWF+ZIP-1.swf,,swf zip,CWS format
 TAR+TIFF.tiff,,tiff tar,
 TIFF+JAR+RAR-1.tiff,,tiff jar rar zip,Payload in a valid TIFF tag
 TIFF+JAR-1.tiff,,tiff jar zip,Payload in a valid TIFF tag
