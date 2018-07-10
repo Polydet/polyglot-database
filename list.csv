@@ -21,6 +21,7 @@ HTML+MP3-1.mp3,,html mp3,
 HTML+PDF-1.html,,html pdf,
 HTML+PDF-2.html,,html pdf,"Only a <script> tag"
 HTML+TIFF.tiff,,html tiff,
+HTML+WEBM.html,,html webm,
 JAR+JPG+PDF.jpg,,jar jpg pdf zip,
 JAR+ODT+PDF.pdf,,jar odf pdf zip,"PDF doesn't work with evince nor google chrome, works with firefox"
 JAR+TAR+TIFF.tiff,,jar tar tiff zip,
@@ -79,3 +80,4 @@ TIFF+RAR+ZIP.tiff,,tiff rar zip,Payload in a valid TIFF tag
 TIFF+RAR-1.tiff,,tiff rar,Payload in a valid TIFF tag
 TIFF+ZIP-1.tiff,,tiff zip,Payload in a valid TIFF tag
 WAV+ZIP.zip,,wav zip,
+WEBM+ZIP.webm,,webm zip,

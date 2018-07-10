@@ -21,6 +21,7 @@ HTML+MP3-1.mp3,mp3,mp3,html (B) mp3 (E)
 HTML+PDF-1.html,pdf,pdf (100%),html (BE) pdf
 HTML+PDF-2.html,pdf,pdf (100%),html (BE) pdf
 HTML+TIFF.tiff,tiff,tiff,html (BE) tiff
+HTML+WEBM.html,webm,webm (66.6%) mk (33.3%),html (B) webm (E)
 JAR+JPG+PDF.jpg,jpg,jpg (87.4%) mp3 (12.4%),jpg (E) pdf (BE) zip (B) jar
 JAR+ODT+PDF.pdf,pdf,pdf (100%),pdf (E) zip (B) jar
 JAR+TAR+TIFF.tiff,tar tiff,dbf tar tiff,jar tar (EM) tiff zip (BE)
@@ -79,3 +80,4 @@ TIFF+RAR+ZIP.tiff,tiff,tiff,tiff rar (BE) zip (BE)
 TIFF+RAR-1.tiff,tiff,tiff,tiff rar (BE)
 TIFF+ZIP-1.tiff,tiff,tiff,tiff zip (BE)
 WAV+ZIP.zip,wav,wav,wav (E) zip (B)
+WEBM+ZIP.webm,webm,webm (66.6%) mk (33.3%),webm (E) zip (B)
