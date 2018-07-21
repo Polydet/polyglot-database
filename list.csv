@@ -14,6 +14,7 @@ ELF+JAR+ODT+PDF.zip,,elf jar odt pdf zip,"Only work with Microsoft Word, asks to
 ELF+RAR.rar,,elf rar,
 ELF+RAR5.rar,,elf rar,
 ELF+JAR+RAR.rar,,elf jar rar zip,
+EXE+HTML+PDF.pdf,,exe html pdf,
 GIF+JAR+PDF.gif,,gif jar pdf zip,
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
