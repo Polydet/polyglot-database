@@ -79,6 +79,7 @@ It's purpose is to be used to test a polyglot file detector.
 |RAR5+ZIP-2.rar5           |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |   |  |    |   |    |  |x  |
 |RAR5+ZIP-3.rar5           |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |x  |  |  |   |   |  |    |   |    |  |x  |
 |resume_iso.pdf            |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |   |  |    |x  |   |   |   |   |   |   |   |x  |   |  |   |  |  |   |   |  |    |   |    |  |   |
+|reverseme.bin             |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |x  |  |    |   |   |   |   |   |   |   |   |x  |   |  |   |  |  |   |   |  |    |   |    |  |x  |
 |security_logo_string.jpg  |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |   |x |    |   |   |   |   |   |   |   |   |   |x  |  |   |  |  |   |   |  |    |   |    |  |   |
 |stegosploit_tool.png      |  |    |   |   |   |   |    |   |   |   |         |x   |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |x  |  |   |  |  |   |   |  |    |   |    |  |   |
 |SWF+ZIP-1.swf             |  |    |   |   |   |   |    |   |   |   |         |    |   |   |   |   |  |    |   |   |   |   |   |   |   |   |   |   |  |   |  |  |x  |   |  |    |   |    |  |x  |
