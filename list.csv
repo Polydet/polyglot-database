@@ -14,7 +14,8 @@ ELF+JAR+ODT+PDF.zip,,elf jar odt pdf zip,"Only work with Microsoft Word, asks to
 ELF+RAR.rar,,elf rar,
 ELF+RAR5.rar,,elf rar,
 ELF+JAR+RAR.rar,,elf jar rar zip,
-EXE+HTML+PDF.pdf,,exe html pdf,
+EXE+HTML+PDF-1.pdf,,exe html pdf,"Minimal, 1 byte aligned PE"
+EXE+HTML+PDF-2.pdf,,exe html pdf,
 GIF+JAR+PDF.gif,,gif jar pdf zip,
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
@@ -39,7 +40,7 @@ MP3+PNG.mp3,,mp3 png,
 MP3+TIFF.tiff,,mp3 tiff,
 MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
-neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file, zip nes,
+neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file,zip nes,
 ODT+JAR.odt,,jar odt zip,The reader may ask to repair the file
 OGG+PDF.ogg,,ogg pdf,
 OGG+ZIP.ogg,,ogg zip,

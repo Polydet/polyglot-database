@@ -14,7 +14,8 @@ ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
 ELF+JAR+RAR.rar,elf,elf,jar rar (BE) zip (B)
 ELF+RAR5.rar,elf,elf,rar (B)
 ELF+RAR.rar,elf,elf,rar (B)
-EXE+PDF.pdf,exe,dbf (0.4%) exe (99.4%),exe (E) html (BE) pdf (B)
+EXE+HTML+PDF-1.pdf,exe,dbf (0.4%) exe (99.4%),exe (E) html (BE) pdf (B)
+EXE+HTML+PDF-2.pdf,exe,exe (99.9%),exe (E) html (BE) pdf (B)
 GIF+JAR+PDF.gif,gif,gif (100%),gif (E) pdf (BE) zip (B) jar
 GIF+JAR.gif,gif,gif (100%),gif (E) zip (B) jar
 GIF+JS-1.gif,gif,gif (100%),gif (E)
