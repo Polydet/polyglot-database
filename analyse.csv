@@ -5,15 +5,15 @@ file name,file guess,trid guess,polyglot_detector guess
 7ZIP+ZIP.7z,7z,7z,7z,7z zip
 BMP+HTML+JAR.bmp,bmp,bmp (100%),bmp (E) html (BE) jar zip (B)
 BMP+JAR.bmp,bmp,bmp (100%),bmp (E) jar zip (B)
-DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx jar pdf (BE) rar (B) zip (BE)
-DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx jar pdf (BE) rar (BE) zip (B)
-DOCX+ELF+JAR+PDF.zip,elf,elf (100%),pdf (BE) zip (B) docx jar
+DOCX+ELF+JAR+PDF+RAR-1.zip,elf,elf,docx elf jar pdf (BE) rar (B) zip (BE)
+DOCX+ELF+JAR+PDF+RAR-2.zip,elf,elf,docx elf jar pdf (BE) rar (BE) zip (B)
+DOCX+ELF+JAR+PDF.zip,elf,elf (100%),docx elf jar pdf (BE) zip (B)
 DOCX+JAR+PDF.pdf,pdf,pdf (100%),docx jar pdf (E) zip (B)
 DOCX+JAR.docx,docx zip,docx (52.2%) zip (47.6%),docx jar zip
-ELF+JAR+ODT+PDF.zip,elf,elf (100%),pdf (BE) zip (B) jar
-ELF+JAR+RAR.rar,elf,elf,jar rar (BE) zip (B)
-ELF+RAR5.rar,elf,elf,rar (B)
-ELF+RAR.rar,elf,elf,rar (B)
+ELF+JAR+ODT+PDF.zip,elf,elf (100%),elf pdf (BE) zip (B) jar
+ELF+JAR+RAR.rar,elf,elf,elf jar rar (BE) zip (B)
+ELF+RAR5.rar,elf,elf,elf rar (B)
+ELF+RAR.rar,elf,elf,elf rar (B)
 EXE+HTML+PDF-1.pdf,exe,dbf (0.4%) exe (99.4%),exe (E) html (BE) pdf (B)
 EXE+HTML+PDF-2.pdf,exe,exe (99.9%),exe (E) html (BE) pdf (B)
 GIF+JAR+PDF.gif,gif,gif (100%),gif (E) pdf (BE) zip (B) jar
@@ -44,8 +44,8 @@ neszip-example.nes,nes,nes (100%),zip (BE)
 ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip jar
 OGG+PDF.ogg,pdf,pdf,ogg (B) pdf (E)
 OGG+ZIP.ogg,ogg,ogg,ogg (E) zip (B)
-PDF+ELF-1.pdf,elf,elf (100%),pdf (BE)
-PDF+ELF-2.pdf,elf,elf (100%),pdf (BE)
+PDF+ELF-1.pdf,elf,elf (100%),elf pdf (BE)
+PDF+ELF-2.pdf,elf,elf (100%),elf pdf (BE)
 PDF+TAR.pdf,pdf tar,pdf tar,pdf tar (ME)
 PDF+WAV.pdf,pdf,pdf,pdf (E) wav (B)
 PDFGitPolyglot.pdf,gitbundle,,pdf (BE)
