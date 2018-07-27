@@ -48,8 +48,12 @@ OGG+PDF.ogg,pdf,pdf,ogg (B) pdf (E)
 OGG+ZIP.ogg,ogg,ogg,ogg (E) zip (B)
 PDF+ELF-1.pdf,elf,elf (100%),elf pdf (BE)
 PDF+ELF-2.pdf,elf,elf (100%),elf pdf (BE)
+PDF+ELF-3.pdf,elf,elf (100%),elf
+PDF+ELF-4.pdf,elf,elf (100%),elf
 PDF+TAR.pdf,pdf tar,pdf tar,pdf tar (ME)
+PDF+TAR-2.pdf,tar,tar (100%),tar (E)
 PDF+WAV.pdf,pdf,pdf,pdf (E) wav (B)
+PDF+WAV-2.pdf,,,wav (B)
 PDFGitPolyglot.pdf,gitbundle,,pdf (BE)
 PNG+JAR.png,png,png (100%),png (E) zip (B) jar
 pocorgtfo01.pdf,pdf,pdf (100%),pdf zip (BE)

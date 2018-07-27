@@ -48,8 +48,12 @@ OGG+PDF.ogg,,ogg pdf,
 OGG+ZIP.ogg,,ogg zip,
 PDF+ELF-1.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-2.pdf,,pdf elf,x86-64 Linux ELF64
+PDF+ELF-3.pdf,,pdf elf,x86-64 Linux ELF64
+PDF+ELF-4.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+TAR.pdf,,pdf tar,
+PDF+TAR-2.pdf,,pdf tar,"Works on Evince 3.28.2, Atril 1.20.1 and Firefox 61.0.1"
 PDF+WAV.pdf,,pdf wav,
+PDF+WAV-2.pdf,,pdf wav,"Works on Evince 3.28.2, Atril 1.20.1. Blank on Firefox 61.0.1"
 PDFGitPolyglot.pdf,pocorgtfo15.pdf,pdf gitbundle,
 PNG+JAR.png,,png jar zip,
 pocorgtfo01.pdf,https://www.alchemistowl.org/pocorgtfo/,pdf zip,
