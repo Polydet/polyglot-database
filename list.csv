@@ -41,6 +41,8 @@ MP3+TIFF.tiff,,mp3 tiff,
 MP3+ZIP.zip,,mp3 zip,
 MP4+JAR.mp4,,mp4 jar zip,
 neszip-example.nes,https://vigrey.com/blog/this-nes-rom-also-zip-file,zip nes,
+no-magic-nor-end.pdf,,pdf,"Works on Evince 3.28.2, Atril 1.20.1 and Firefox 61.0.1"
+no-magic.pdf,,pdf,"Works on Evince 3.28.2, Atril 1.20.1 and Firefox 61.0.1"
 ODT+JAR.odt,,jar odt zip,The reader may ask to repair the file
 OGG+PDF.ogg,,ogg pdf,
 OGG+ZIP.ogg,,ogg zip,

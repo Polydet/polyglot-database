@@ -41,6 +41,8 @@ MP3+TIFF.tiff,tiff,tiff,mp3 (BME) tiff
 MP3+ZIP.zip,mp3,mp3,mp3 (E) zip (B)
 MP4+JAR.mp4,mp4,mp4 (92.3%) abr (6.6%),zip (B) jar
 neszip-example.nes,nes,nes (100%),zip (BE)
+no-magic-nor-end.pdf,,,
+no-magic.pdf,,,
 ODT+JAR.odt,odt,odt (54.1%) xmind (37.6%) zip (8.2%),zip jar
 OGG+PDF.ogg,pdf,pdf,ogg (B) pdf (E)
 OGG+ZIP.ogg,ogg,ogg,ogg (E) zip (B)
