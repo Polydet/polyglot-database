@@ -50,6 +50,7 @@ PDF+ELF-1.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-2.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-3.pdf,,pdf elf,x86-64 Linux ELF64
 PDF+ELF-4.pdf,,pdf elf,x86-64 Linux ELF64
+PDF+PHP.pdf,,pdf php,
 PDF+TAR.pdf,,pdf tar,
 PDF+TAR-2.pdf,,pdf tar,"Works on Evince 3.28.2, Atril 1.20.1 and Firefox 61.0.1"
 PDF+WAV.pdf,,pdf wav,
