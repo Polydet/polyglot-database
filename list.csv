@@ -18,6 +18,7 @@ ELF+RAR5.rar,,elf rar,
 ELF+JAR+RAR.rar,,elf jar rar zip,
 EXE+HTML+PDF-1.pdf,,exe html pdf,"Minimal, 1 byte aligned PE"
 EXE+HTML+PDF-2.pdf,,exe html pdf,
+FLAC+PDF.flac,,flac pdf,
 GIF+JAR+PDF.gif,,gif jar pdf zip,
 GIF+JAR.gif,,gif jar zip,
 GIF+JS-1.gif,,gif js,
