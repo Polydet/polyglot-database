@@ -28,6 +28,7 @@ GIF+TAR.gif,,gif tar,
 HTML+MP3-1.mp3,,html mp3,
 HTML+PDF-1.html,,html pdf,
 HTML+PDF-2.html,,html pdf,"Only a <script> tag"
+HTML+PDF-3.html,,html pdf,"An image with a script running on mouse over"
 HTML+TIFF.tiff,,html tiff,
 HTML+WEBM.html,,html webm,
 JAR+JPG+PDF.jpg,,jar jpg pdf zip,
